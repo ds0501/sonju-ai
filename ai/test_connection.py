@@ -1,3 +1,5 @@
+#연결 테스트 파일입니다 손주톡톡 기능과 상관 x
+
 from openai import OpenAI
 import os
 from dotenv import load_dotenv
